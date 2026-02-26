@@ -1,10 +1,7 @@
-## Hi there 👋
 
-# Hi, I'm Abhinav 👋  
+## Hi, I'm Abhinav 👋  
 
-🎯 Aspiring Data Analyst Intern  
-📍 New Delhi, India  
-📊 Passionate about transforming raw data into meaningful business insights  
+🎯 Data Analyst |📍 New Delhi, India  | 📊 Passionate about transforming raw data into meaningful business insights  
 
 ---
 
